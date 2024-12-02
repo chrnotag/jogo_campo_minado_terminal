@@ -27,8 +27,11 @@ Este é um **projeto de console** em Java, baseado no clássico **Campo Minado**
 ## ⚙️ **Tecnologias Utilizadas**
 
 - **Java**: Linguagem de programação principal.
-- **JDK 11**: Ambiente de desenvolvimento Java.
+- **JDK 23**: Ambiente de desenvolvimento Java.
 - **Scanner**: Para entrada do usuário no terminal.
+- **JUnit**: Para testes unitários.
+- **Mockito**: Para testes com mock de dados.
+- **SPR**: Principios de SOLID.
 - **Design MVVM**: Separação entre lógica de visualização (View) e lógica de negócios (ViewModel).
 
 ## 🛠️ **Estrutura de Diretórios**
